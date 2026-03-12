@@ -1,0 +1,42 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#f3f4f6;
+}
+
+button{
+padding:10px 20px;
+background:black;
+color:white;
+border:none;
+border-radius:5px;
+}
+
+
+
+.container{
+background: white;
+width: 550px;
+margin: auto;
+margin-top: 100px;
+padding: 25px;
+border-radius: 10px;
+box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+text-align: left;
+}
+
+h2{
+text-align: center;
+}
+
+h3{
+color: #4f46e5;
+}
+
+ul{
+margin-left: 20px;
+}
+
+ol{
+margin-left: 20px;
+}
